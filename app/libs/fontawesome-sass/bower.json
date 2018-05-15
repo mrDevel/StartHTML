@@ -1,0 +1,15 @@
+{
+  "name": "fontawesome-sass",
+  "version": "1.0.2",
+  "authors": [
+    "Rubén Sospedra <sospedra.r@gmail.com>"
+  ],
+  "description": "Font awesome with .sass (not .scss) syntax",
+  "main": "fontawesome.sass",
+  "keywords": [
+    "fontawesome",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "sospedra.me"
+}

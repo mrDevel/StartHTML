@@ -1,0 +1,24 @@
+{
+  "name": "fontawesome-sass",
+  "authors": [
+    "Rubén Sospedra <sospedra.r@gmail.com>"
+  ],
+  "description": "Font awesome with .sass (not .scss) syntax",
+  "main": "fontawesome.sass",
+  "keywords": [
+    "fontawesome",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "sospedra.me",
+  "_release": "5b119c1b8e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5b119c1b8e17feee22d99087396697cc0eefef50"
+  },
+  "_source": "https://github.com/edravis/fontawesome-sass.git",
+  "_target": "*",
+  "_originalSource": "fontawesome-sass",
+  "_direct": true
+}

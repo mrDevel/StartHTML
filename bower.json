@@ -1,0 +1,21 @@
+{
+  "name": "starthtml",
+  "description": "Стартовая сборка для верстки",
+  "main": "index.js",
+  "authors": [
+    "MrDevel"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "StartHTML"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ]
+}
